@@ -2,14 +2,14 @@
 
 Em 2022, desenvolvi uma aplicação web denominada "Estante Virtual" para auxiliar na venda de livros, incentivando a leitura e facilitando o acesso a títulos literários. Esse sistema foi desenvolvido na disciplina de Projeto Integrador do meu Curso Técnico Integrado de Informática. A aplicação foi publicada e apresentada na 10 edição da Mostra Científica, Cultural e Tecnológica do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Presidente Epitácio.
 #
-## Tecnologias Utilizadas:
+## **Tecnologias Utilizadas:**
 - ### PHP;
 - ### MySQL;
 - ### HTML/CSS;
 - ### JavaScript;
 - ### Bootstrap.
 #
-## Funcionalidades Principais:
+## **Funcionalidades Principais:**
 ### Gerenciamento de Vendas:
 - O administrador pode verificar o pagamento de vendas, atualizar o status, editar ou excluir vendas. Os itens de informação incluem status (solicitada, pagamento confirmado).
 ### Efetuação de Compras:
@@ -29,4 +29,24 @@ Em 2022, desenvolvi uma aplicação web denominada "Estante Virtual" para auxili
 ### Leitor:
 - Visualiza, comenta e favorita títulos.
 - Realiza compras e acessa informações de sua conta.
+#
+
+## **Interfase Gráfica**
+- ### Home
+<img src="home.png">
+
+- ### Seção Novidades
+<img src="novidades.png">
+
+- ### Seção Livros Relacionados
+<img src="livro relacionados.png">
+
+- ### Página do Livro
+<img src="livro.png">
+
+- ### Dashboard
+<img src="Dashboard usuario.png">
+
+- ### Minhas Compras
+<img src="minhas compras.png">
 #
