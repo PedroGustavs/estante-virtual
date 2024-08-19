@@ -1,10 +1,10 @@
 # Livraria **Estante Virtual**
 
-A **"Estante Virtual"** é uma aplicação Web desenvolvida em 2022. Ela foi implementada para auxiliar na venda de livros, incentivando a leitura e facilitando o acesso a títulos literários. Esse sistema foi desenvolvido na disciplina de Projeto Integrador do 2 ano do Curso Técnico Integrado de Informática. A aplicação foi publicada e apresentada na **edição 2022** da **Mostra Científica, Cultural e Tecnológica do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Presidente Epitácio**.
+A **"Estante Virtual"** é uma aplicação Web desenvolvida em 2022. Ela foi implementada para auxiliar na venda de livros, incentivando a leitura e facilitando o acesso a títulos literários de uma livraria fictícia. Esse sistema foi desenvolvido na disciplina de Projeto Integrador do 2 ano do Curso Técnico Integrado de Informática. A aplicação foi publicada e apresentada na **edição 2022** da **Mostra Científica, Cultural e Tecnológica do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Presidente Epitácio**.
 #
 ## **Tecnologias Utilizadas:**
 - ### PHP;
-- ### MySQL;
+- ### phpMyAdmin;
 - ### HTML/CSS;
 - ### JavaScript;
 - ### Bootstrap.
